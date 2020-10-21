@@ -1,0 +1,10 @@
+some-values: 
+  int-value: 123
+  string-value: "abc"
+  boolean-value: "true"
+  array-value: 
+    config-object:
+      - key: "key1"
+        value: "value1"
+      - key: "key2"
+        value: "value2"
