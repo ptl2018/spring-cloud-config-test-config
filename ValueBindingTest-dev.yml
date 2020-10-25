@@ -1,5 +1,5 @@
 some-values: 
-  int-value: test
+  int-value: 123
   string-value: "dev"
   boolean-value: "true"
   array-value: 
