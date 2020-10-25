@@ -1,5 +1,5 @@
 some-values: 
-  int-value: "defghi"
+  int-value: 123
   string-value: "abc"
   boolean-value: "true"
   array-value: 
